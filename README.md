@@ -3,9 +3,9 @@ Aiming to build an app to help out with building/maintaining PCs using Xamarin
 
 Being worked on at the moment
 ------------------------------
-Icons
-Splash Screen
-Walkthrough(with steps) and Skip button
+Icons <WIP> (still working on app icons)
+Splash Screen <DONE>
+Walkthrough with steps and Skip button
 Main Screen
 
 # Proposed Features for UWP
